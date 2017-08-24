@@ -6,9 +6,10 @@ describe('',function(){
        expect(result).toBe(10);
     })
 
-    it('some test',function(){
+    it('some test2',function(){
         var calc=new Calculadora();
              var result= calc.add(5,10);
              expect(result).toBe(15);
           })
+
 })
